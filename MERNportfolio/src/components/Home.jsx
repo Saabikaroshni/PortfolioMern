@@ -7,7 +7,7 @@ function Home() {
             <h1>I'm Saabika Roshni S</h1>
             <p>
                
-                I am a passionate and ambitious pre-final year Electronics and Communication Engineering student with strong coding skills. I enjoy tackling complex challenges and developing innovative solutions. With a continuous learning mindset, I strive to expand my knowledge and make a meaningful impact in the tech industry.
+            I am a passionate Electronics and Communication Engineering student with a strong interest in coding and problem-solving. I love exploring new technologies and developing innovative solutions. My goal is to continuously learn and grow in the tech industry.
             </p>
         </div>
     );
